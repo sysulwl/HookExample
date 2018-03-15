@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add", "Add\Add.vcproj", "{C7DDAB17-9DA3-4696-BC54-7D7D268CFA86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallAdd", "CallAdd\CallAdd.vcproj", "{C713ACF1-B998-49A4-AFAE-95B226158067}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook", "Hook\Hook.vcproj", "{9B852D36-E249-41DF-A526-615685F25A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DDAB17-9DA3-4696-BC54-7D7D268CFA86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7DDAB17-9DA3-4696-BC54-7D7D268CFA86}.Debug|Win32.Build.0 = Debug|Win32
+		{C7DDAB17-9DA3-4696-BC54-7D7D268CFA86}.Release|Win32.ActiveCfg = Release|Win32
+		{C7DDAB17-9DA3-4696-BC54-7D7D268CFA86}.Release|Win32.Build.0 = Release|Win32
+		{C713ACF1-B998-49A4-AFAE-95B226158067}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C713ACF1-B998-49A4-AFAE-95B226158067}.Debug|Win32.Build.0 = Debug|Win32
+		{C713ACF1-B998-49A4-AFAE-95B226158067}.Release|Win32.ActiveCfg = Release|Win32
+		{C713ACF1-B998-49A4-AFAE-95B226158067}.Release|Win32.Build.0 = Release|Win32
+		{9B852D36-E249-41DF-A526-615685F25A27}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B852D36-E249-41DF-A526-615685F25A27}.Debug|Win32.Build.0 = Debug|Win32
+		{9B852D36-E249-41DF-A526-615685F25A27}.Release|Win32.ActiveCfg = Release|Win32
+		{9B852D36-E249-41DF-A526-615685F25A27}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
