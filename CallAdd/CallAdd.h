@@ -20,7 +20,7 @@ public:
 	CCallAddApp();
 
 // ÷ÿ–¥
-	public:
+public:
 	virtual BOOL InitInstance();
 
 //  µœ÷
