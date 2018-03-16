@@ -4,8 +4,8 @@
 
 #pragma once
 
-#define  WINVER 0X0500
-#define	_WIN32_WINNT 0X0500
+//#define  WINVER 0X0500
+//#define	_WIN32_WINNT 0X0500
 
 #ifndef _SECURE_ATL
 #define _SECURE_ATL 1
